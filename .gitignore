@@ -1,0 +1,73 @@
+# 忽略所有 .log 文件
+*.log
+
+# 忽略所有 .tmp 文件
+*.tmp
+
+# 忽略所有 .env 文件
+*.env
+
+# 忽略所有 .DS_Store 文件
+.DS_Store
+
+# 忽略所有 .idea 目录
+.idea/
+
+# 忽略二进制文件
+build/
+
+# 忽略所有 node_modules 目录
+node_modules/
+
+# 忽略所有 vendor 目录
+vendor/
+
+# 忽略所有 .vscode 目录
+.vscode/
+
+# 忽略所有 .cache 目录
+.cache/
+
+# 忽略所有 .env.local 文件
+.env.local
+
+# 忽略所有 .env.development 文件
+.env.development
+
+# 忽略所有 .env.production 文件
+.env.production
+
+# 忽略所有 .env.test 文件
+.env.test
+
+# 忽略所有 .env.staging 文件
+.env.staging
+
+# 忽略所有 .env.example 文件
+.env.example
+
+# 忽略所有 .env.default 文件
+.env.default
+
+# 忽略所有 .env.sample 文件
+.env.sample
+
+# 忽略所有 .env.dev 文件
+.env.dev
+
+# 忽略所有 .env.prod 文件
+.env.prod
+
+
+# 忽略所有 .env.staging 文件
+.env.staging
+
+
+
+# 忽略所有 .env.default 文件
+.env.default
+
+
+# 忽略所有 .env.template 文件
+.env.template
+
