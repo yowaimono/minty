@@ -16,6 +16,19 @@
 # 忽略二进制文件
 build/
 
+dist/
+
+dist2
+
+dist1/
+
+dist3/
+
+test.go
+
+# 忽略上传部署脚本
+up.sh
+
 # 忽略所有 node_modules 目录
 node_modules/
 
